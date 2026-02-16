@@ -1,0 +1,10 @@
+{"level":"low","message":"Service https://google.com is worker","createdAt":"2026-02-10T02:14:15.765Z"}
+{"level":"low","message":"Service https://google.com is worker","createdAt":"2026-02-10T02:14:20.368Z"}
+{"level":"low","message":"Service https://google.com is worker","createdAt":"2026-02-10T02:14:25.703Z"}
+{"level":"low","message":"Service https://google.com is worker","createdAt":"2026-02-10T02:14:30.255Z"}
+{"level":"high","message":"TypeError: fetch failed","createdAt":"2026-02-10T02:14:35.442Z"}
+{"level":"high","message":"TypeError: fetch failed","createdAt":"2026-02-10T02:14:40.021Z"}
+{"level":"high","message":"TypeError: fetch failed","createdAt":"2026-02-10T02:14:45.028Z"}
+{"level":"high","message":"TypeError: fetch failed","createdAt":"2026-02-10T02:14:50.044Z"}
+{"level":"high","message":"TypeError: fetch failed","createdAt":"2026-02-10T02:14:55.015Z"}
+{"level":"high","message":"TypeError: fetch failed","createdAt":"2026-02-10T02:15:00.027Z"}

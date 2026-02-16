@@ -1,7 +1,15 @@
+import { envs } from "./configs/envs.plugins";
 import { Server } from "./presentation/server"
 
 
 
 (()=>{
-    Server.start();
+    main();
 })()
+
+function main(){
+    // Server.start();
+console.log(envs);
+
+
+}
